@@ -22,7 +22,6 @@ I turn product ideas and interface concepts into working web products, Telegram 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
 | [ServiceFlow CRM](https://github.com/Aturm4/serviceflow-crm) | Interactive SaaS concept for service-center workflows, with demo authentication and browser-local data | React, TypeScript, vinext |
-| [FocusHub](https://github.com/Aturm4/FocusHub) | Productivity system with tasks, focus timer, habits, analytics, and offline demo mode | React, TypeScript |
 | [Obusch / Design Club](https://github.com/Aturm4/Obusch) | Mentor–student learning platform with roles, assignments, reviews, and realtime chat | JavaScript, Node.js, Socket.IO |
 | [FitPet](https://github.com/Aturm4/fitpet) | Camera-based fitness game with pose tracking, repetition counting, XP, and progression | React, MediaPipe |
 | [Unity MCP Animation Lab](https://github.com/Aturm4/unity-mcp-animation-lab) | Unity + Blender workflow controlled through MCP, with animation experiments | Unity 6, Blender, MCP |
