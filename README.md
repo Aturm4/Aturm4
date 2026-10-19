@@ -21,14 +21,20 @@ I turn product ideas and interface concepts into working web products, Telegram 
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
-| [ServiceFlow CRM](https://github.com/Aturm4/serviceflow-crm) | Responsive service-center CRM with clients, orders, scheduling, and analytics | Next.js, TypeScript |
+| [ServiceFlow CRM](https://github.com/Aturm4/serviceflow-crm) | Interactive SaaS concept for service-center workflows, with demo authentication and browser-local data | React, TypeScript, vinext |
 | [FocusHub](https://github.com/Aturm4/FocusHub) | Productivity system with tasks, focus timer, habits, analytics, and offline demo mode | React, TypeScript |
-| [Obusch / Design Club](https://github.com/Aturm4/Obusch) | Mentor–student learning platform with roles, assignments, reviews, and realtime chat | React, Node.js, Socket.IO |
+| [Obusch / Design Club](https://github.com/Aturm4/Obusch) | Mentor–student learning platform with roles, assignments, reviews, and realtime chat | JavaScript, Node.js, Socket.IO |
 | [FitPet](https://github.com/Aturm4/fitpet) | Camera-based fitness game with pose tracking, repetition counting, XP, and progression | React, MediaPipe |
 | [Unity MCP Animation Lab](https://github.com/Aturm4/unity-mcp-animation-lab) | Unity + Blender workflow controlled through MCP, with animation experiments | Unity 6, Blender, MCP |
 | [Bumbars](https://github.com/Aturm4/bumbars) | Persistent life-simulation prototype with an AI host and deterministic server-side consequences | Next.js, TypeScript |
 | [What to Cook](https://github.com/Aturm4/what-to-cook) | Ingredient-driven recipe finder with a responsive interface | React, Vite, TypeScript |
 | [FitZone](https://github.com/Aturm4/FitZone) | Responsive premium fitness landing page | Next.js, TypeScript |
+
+## Try the demos
+
+- [ServiceFlow CRM](https://serviceflow-crm.atumovichatuma.chatgpt.site) — interactive SaaS concept.
+- [FitPet](https://aturm4.github.io/fitpet/) — camera-based fitness game prototype.
+- [What to Cook](https://aturm4.github.io/what-to-cook/) — ingredient-driven recipe finder.
 
 ## Core stack
 
@@ -45,4 +51,3 @@ Currently open to junior / AI-assisted developer opportunities and product colla
 - Telegram: [@t_amir_m](https://t.me/t_amir_m)
 - Email: [atumovichatuma@gmail.com](mailto:atumovichatuma@gmail.com)
 - Resume: [hh.uz](https://tashkent.hh.uz/resume/7ed721e8ff10e9db2f0039ed1f72494b473737)
-
